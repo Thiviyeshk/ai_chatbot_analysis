@@ -168,6 +168,24 @@ streamlit run app.py
 
 https://aichatbotanalysis-hdxwurmwv4kjznxvvhv4am.streamlit.app/
 
+## 📸 Screenshots
+
+### 🔹 Output 1
+![Output 1](output_1.png)
+
+### 🔹 Output 2
+![Output 2](output_2.png)
+
+---
+
+## 🎥 Demo Videos
+
+### 🔹 Chatbot Demo 1
+👉 [Click to Watch Demo 1](chatbot_1.mp4)
+
+### 🔹 Chatbot Demo 2
+👉 [Click to Watch Demo 2](chatbot_2.mp4)
+
 
 ###### **Future Improvements**
 
