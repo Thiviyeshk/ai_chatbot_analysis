@@ -164,6 +164,9 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+**Live**
+
+https://aichatbotanalysis-hdxwurmwv4kjznxvvhv4am.streamlit.app/
 
 
 ###### **Future Improvements**
@@ -185,8 +188,8 @@ streamlit run app.py
 ###### **Author**
 
 
-
-Aspiring Data Analyst | Building AI-powered data solutions
+Thiviyesh K 
+Aspiring Data Analyst 
 
 
 
